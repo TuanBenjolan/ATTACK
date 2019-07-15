@@ -14,7 +14,7 @@ sys.setdefaultencoding("utf-8")
 W  = '\033[0m'  # white (normal)
 R  = '\033[31m' # red
 G  = '\033[32m' # green
-O  = '\033[33m' # orange
+O  = '\033[33m' # yellow
 B  = '\033[1m'  # bold
 RR = '\033[3m'  # greencolor
 
@@ -62,22 +62,22 @@ def logo():
                               ##   ####
                                     ###
                                  \033[0m    ##\033[32m
-          \033[0m-by \033[32m[G\033[32maluh Muhammad \033[32mF\033[0mirdaus\033[32m ]        \033[0m#\033[32m
+          \033[0m-by \033[33m[G\033[33maluh Muhammad \033[33mF\033[0mirdaus\033[33m ]        \033[32m#\033[32m
 \n\t     \033[32m\033[1m[_\033[0mIP Flooder\033[32m_]
  \n\033[33m\033[1m
-\t \033[0m\033[1m[-] \033[33m\033[1mPlatform : \033[0m\033[1mAndroid Termux
+\t \033[0m\033[0m[+] \033[33m\033[31mPlatform : \033[0m\033[1mAndroid Termux
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mName     : \033[0m\033[1m [ MR.054 ]
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mSite     : \033[32m\033[1m[ https://youtube.com/MR.054 \033[0m ]
-\t \033[1m\033[0m\033[1m[+] \033[31m\033[1mGitHub   :\033[32m \033[1m[ \033[32m\033[1mhttps://github.com/tuanbenjolan \033[0m ]
-\t \033[1m\033[33m\033[1m[+] \033[31m\033[1mSep.Code : \033[0m\033[1m05.05.04\033[0m
+\t \033[1m\033[0m\033[1m[+] \033[31m\033[1mGitHub   :\033[32m \033[1m[ \033[32m\033[1mhttps://github.com/tuanbenjolan\033[0m ]
+\t \033[1m\033[0m\033[1m[+] \033[31m\033[1mSep.Code : \033[0m\033[1m05.05.04\033[0m
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mDate     : \033[0m\033[1m16-Juli-2019\033[0m
   """)
 
 
 logo()
 
-print("\n\n\n\t\t\033[31m\033[1m[MR.054]")
-print("\033[0m\033[1m       Script By. \033[32m[G][A][L][U][H]\033[0m")
+print("\n\n\n\t\t\033[31m\033[33m[MR.054]")
+print("\033[0m\033[1m       Creative By. \033[32m[G][A][L][U][H]\033[0m")
 
 attack = raw_input("\n\n\n\033[1mWebsite or IP ==> \033[0m")
 
