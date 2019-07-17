@@ -62,13 +62,13 @@ def logo():
                               ##   ####
                                     ###
                                  \033[0m    ##\033[32m
-          \033[0m-by \033[33m[G\033[33maluh Muhammad \033[33mF\033[0mirdaus\033[33m ]        \033[32m#\033[32m
+          \033[0m-by \033[33m[G\033[33mal!!-! Muhammad \033[33mF\033[33mirdaus\033[33m ]        \033[32m#\033[32m
 \n\t     \033[32m\033[1m[_\033[0mIP Flooder\033[32m_]
  \n\033[33m\033[1m
-\t \033[0m\033[0m[+] \033[33m\033[31mPlatform : \033[0m\033[1mAndroid Termux
+\t \033[1m\033[0m\033[1m[+] \033[33m\033[1mPlatform : \033[0m\033[1mAndroid Termux
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mName     : \033[0m\033[1m [ MR.054 ]
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mSite     : \033[32m\033[1m[ https://youtube.com/MR.054 \033[0m ]
-\t \033[1m\033[0m\033[1m[+] \033[31m\033[1mGitHub   :\033[32m \033[1m[ \033[32m\033[1mhttps://github.com/tuanbenjolan\033[0m ]
+\t \033[1m\033[0m\033[1m[+] \033[31m\033[1mGitHub   : \033[32m \033[1m[ \033[32m\033[1mhttps://github.com/tuanbenjolan\033[0m ]
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mSep.Code : \033[0m\033[1m05.05.04\033[0m
 \t \033[1m\033[0m\033[1m[+] \033[31m\033[1mDate     : \033[0m\033[1m16-Juli-2019\033[0m
   """)
@@ -77,9 +77,9 @@ def logo():
 logo()
 
 print("\n\n\n\t\t\033[31m\033[33m[MR.054]")
-print("\033[0m\033[1m       Creative By. \033[32m[G][A][L][U][H]\033[0m")
+print("\033[0m\033[1m       Creative By. \033[32m[G][A][L][!][!]\033[0m")
 
-attack = raw_input("\n\n\n\033[1mWebsite or IP ==> \033[0m")
+attack = raw_input("\n\n\n\033[1mTarget or IP ==> \033[33m")
 
 print("\n\n\tEnter Flood Size (1-6000) \n")
 package = input("\033[0m\033[1mFlood Size ===>\033[33m ")
@@ -98,7 +98,7 @@ while True:
                 break
 print("\n")
 print("\n\033[31m\033[1mFlooding Completed...:D\033[33m\n")
-print("MR.054 Attack has completed on \033[32m%s\033[33m for \033[32m%s\033[33m seconds by Sutariya Parixit." % (attack, duration))
+print("MR.054 Attack has completed on \033[32m%s\033[33m for \033[32m%s\033[33m seconds by MR.054." % (attack, duration))
 
 def connect(i):
     try:
